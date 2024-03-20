@@ -1,4 +1,4 @@
-#This lab is based on Quartus II 13.1 (32-bit) version.
+# This lab is based on Quartus II 13.1 (32-bit) version.
 
 ## `fourB` folder is four bit full adder validation.
 
